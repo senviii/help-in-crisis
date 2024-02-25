@@ -14,7 +14,7 @@ Here's the robust tech stack that powers Helping Hands:
 For further insights, feel free to explore:
 
 - [📚 BackEnd Outline](https://docs.google.com/document/d/1pgtW-NFbun-nKecuqgLSbR2x_gjZmIZBduBiUMCeeX4/edit?usp=sharing)
-- [🎨 Figma File for UI Reference](https://www.figma.com/file/2e0ElWXZPi900USZGpu3P5/Untitled?type=design&node-id=0%3A1&mode=design&t=NkCCmRh0wVsYsct1-1)
+- [🎨 Figma File for UI Reference](https://www.figma.com/file/2e0ElWXZPi900USZGpu3P5/Untitled?type=design&node-id=0%3A1&mode=design&t=0BMufndsxiueTflp-1)
 
 ## 🌐 Project Overview
 
